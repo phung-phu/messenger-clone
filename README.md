@@ -6,4 +6,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is deployed with [Firebase](https://firebase.google.com/) and uses Cloud Firestore as its database to store messages and usernames.
 
-[![messenger clone preview](./messenger-clone.png)](https://messenger-clone-5e588.web.app/)
+[![messenger clone preview](./messenger.gif)](https://messenger-clone-5e588.web.app/)
