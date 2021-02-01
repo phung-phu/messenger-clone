@@ -1,5 +1,5 @@
 # Project Description
-## [Messenger Clone web app](https://messenger-clone-5e588.web.app/)
+## [Messenger demo web app](https://messenger-clone-5e588.web.app/)
 
 This web app attempts to replicate the front-end web page of the [Facebook messenger app](https://www.messenger.com/). The web app allows users to type, send, and view their messages as well as other users' messages.
 
